@@ -1,0 +1,7 @@
+{
+  "name": "M Application",
+  "description": "Unified life operating system featuring Money Management (Bank & UPI statement review & processing), Knowledge Base, Health Management, Document Management, and Action Planning & Tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
